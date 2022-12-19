@@ -2,7 +2,7 @@
 
 Site do meu currículo online. Desenvolvido com HTML e CSS e abordando conceitos de responsividade.
 
-🔗 [Click here to access](https://n4ju15.github.io/my-CV/)
+🔗 [Click here to access](https://dry-a.github.io/Meu-curriculo/)
 
 ![screenshot](images/readme.png)
 
